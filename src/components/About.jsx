@@ -1,4 +1,4 @@
-import aboutImg from "../assets/will3.png"
+import aboutImg from "../assets/lapp.jpeg"
 import { ABOUT_TEXT } from "../constants"
 
 
