@@ -1,5 +1,5 @@
 import { HERO_CONTENT } from "../constants"
-import profilePic from "../assets/will2.jpg"
+import profilePic from "../assets/will3.png"
 
 
 
