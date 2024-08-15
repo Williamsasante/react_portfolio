@@ -31,7 +31,7 @@ export const EXPERIENCES = [
     role: "Junior Web Developer",
     company: "GHANA NATIONAL LANDS COMISSION",
     description: `Contributed to the development and maintenance of server-side web applications using Laravel for managing land information for the Republic of Ghana, while assisting in API development, database management with MySQL/SQL, and ensuring software security and performance through testing and optimization; also participated in code reviews, provided end-user training, and stayed updated with emerging technologies to drive continuous improvement and seamless system integration.`,
-    technologies: ["Python", "Svelte", "Three.js", "Postgres"],
+    technologies: ["Python", "PHP", "Laravel", "AWS Server"],
   },
   {
     year: "July 2017 - September 2021",
@@ -44,10 +44,10 @@ export const EXPERIENCES = [
 
 export const PROJECTS = [
   {
-    title: "E-Commerce Website",
+    title: "online learning and education",
     image: project1,
     description:
-      "A fully functional e-commerce website with features like product listing, shopping cart, and user authentication.",
+      "Provides a broad range of online courses across various subjects, including technology, business, personal development, and more. It enables users to learn at their own pace through video lectures, quizzes, and assignments.ion.",
     technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB"],
   },
   {
