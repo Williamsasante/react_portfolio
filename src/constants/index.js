@@ -59,11 +59,11 @@ export const PROJECTS = [
     technologies: [ "Tailwind", "Laravel"],
   },
   {
-    title: "Portfolio Website",
+    title: "Help Desk - Ghana Lands Commission",
     image: project3,
     description:
-      "A personal portfolio website showcasing projects, skills, and contact information.",
-    technologies: ["HTML", "CSS", "React", "Bootstrap"],
+      "An internal ticketing web application for lodging technical complains and solutions",
+    technologies: ["HTML", "CSS", "Laravel", "Bootstrap"],
   },
   {
     title: "Blogging Platform",
