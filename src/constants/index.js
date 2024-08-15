@@ -5,11 +5,11 @@ import project4 from "../assets/projects/project-4.jpg";
 
 export const HERO_CONTENT = `I am an enthusiastic junior developer with experience in PHP Laravel and Python, eager to build and maintain high-quality web applications. My hands-on experience has allowed me to develop a solid foundation in backend development, and I am committed to continuously expanding my skills. My goal is to contribute to the creation of efficient, scalable solutions that enhance user experiences and support business objectives.`;
 
-export const ABOUT_TEXT = `I am a dedicated and eager junior Laravel developer with a passion for building efficient and user-friendly web applications. Though early in my career, I have already gained experience working with Laravel, MySQL, and basic front-end technologies. My journey in web development began with a deep curiosity for how web applications are built, and it has grown into a pursuit where I continuously seek to learn and tackle new challenges.
+export const ABOUT_TEXT = `I have already gained experience working with Laravel, MySQL, and basic front-end technologies. My journey in web development began with a deep curiosity for how web applications are built, and it has grown into a pursuit where I continuously seek to learn and tackle new challenges.
 
 I thrive in collaborative environments and am always ready to contribute to the success of the team. I enjoy problem-solving and am committed to delivering high-quality solutions. Outside of coding, I like to stay active, explore new technologies, and continue expanding my knowledge through personal projects and contributions to open-source communities.
 
-This version emphasizes your current role and experience level while highlighting your passion and enthusiasm for growth in the field.`;
+`;
 
 export const EXPERIENCES = [
   {
