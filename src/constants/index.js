@@ -44,11 +44,12 @@ export const EXPERIENCES = [
 
 export const PROJECTS = [
   {
-    title: "online learning and education",
+    title: "Online learning and Education",
     image: project1,
     description:
       "Provides a broad range of online courses across various subjects, including technology, business, personal development, and more. It enables users to learn at their own pace through video lectures, quizzes, and assignments.ion.",
-    technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB"],
+    technologies: ["HTML", "Bootstrap", "Laravel", "Js", "MySQL"],
+    
   },
   {
     title: "Task Management App",
