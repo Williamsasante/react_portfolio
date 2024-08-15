@@ -5,36 +5,40 @@ import project4 from "../assets/projects/project-4.jpg";
 
 export const HERO_CONTENT = `I am an enthusiastic junior developer with experience in PHP Laravel and Python, eager to build and maintain high-quality web applications. My hands-on experience has allowed me to develop a solid foundation in backend development, and I am committed to continuously expanding my skills. My goal is to contribute to the creation of efficient, scalable solutions that enhance user experiences and support business objectives.`;
 
-export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer with a passion for creating efficient and user-friendly web applications. With 5 years of professional experience, I have worked with a variety of technologies, including React, Next.js, Node.js, MySQL, PostgreSQL, and MongoDB. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects.`;
+export const ABOUT_TEXT = `I am a dedicated and eager junior Laravel developer with a passion for building efficient and user-friendly web applications. Though early in my career, I have already gained experience working with Laravel, MySQL, and basic front-end technologies. My journey in web development began with a deep curiosity for how web applications are built, and it has grown into a pursuit where I continuously seek to learn and tackle new challenges.
+
+I thrive in collaborative environments and am always ready to contribute to the success of the team. I enjoy problem-solving and am committed to delivering high-quality solutions. Outside of coding, I like to stay active, explore new technologies, and continue expanding my knowledge through personal projects and contributions to open-source communities.
+
+This version emphasizes your current role and experience level while highlighting your passion and enthusiasm for growth in the field.`;
 
 export const EXPERIENCES = [
   {
-    year: "2023 - Present",
-    role: "Senior Full Stack Developer",
-    company: "Google Inc.",
-    description: `Led a team in developing and maintaining web applications using JavaScript, React.js, and Node.js. Implemented RESTful APIs and integrated with MongoDB databases. Collaborated with stakeholders to define project requirements and timelines.`,
-    technologies: ["Javascript", "React.js", "Next.js", "mongoDB"],
+    year: "November 2023 - Present",
+    role: " Software Developer Trainee",
+    company: "IT Career Switch,UK.",
+    description: `Contributing to software design and development under senior developer mentorship while gaining hands-on experience with Python and MySQL and actively participating in code reviews for continuous improvement.`,
+    technologies: ["Javascript", "Python", "SQL", "Java"],
   },
   {
-    year: "2022 - 2023",
-    role: "Frontend Developer",
-    company: "Adobe",
-    description: `Designed and developed user interfaces for web applications using Next.js and React. Worked closely with backend developers to integrate frontend components with Node.js APIs. Implemented responsive designs and optimized frontend performance.`,
-    technologies: ["HTML", "CSS", "Vue.js", "mySQL"],
+    year: "May 2022 -June 2023",
+    role: "WordPress developer",
+    company: "Frontline Nursing Canada,Canada - Contract",
+    description: `Designed and developed user-friendly interfaces for websites using WordPress, focusing on custom themes and plugins. Collaborated closely with backend teams to integrate frontend elements with WordPress APIs, ensuring seamless functionality. Implemented responsive designs and optimized site performance for a smooth user experience.`,
+    technologies: ["Wordpress", "PHP", "MySQL", "SEO"],
   },
   {
-    year: "2021 - 2022",
-    role: "Full Stack Developer",
-    company: "Facebook",
-    description: `Developed and maintained web applications using JavaScript, React.js, and Node.js. Designed and implemented RESTful APIs for data communication. Collaborated with cross-functional teams to deliver high-quality software products on schedule.`,
+    year: "June 2021 - August 2022",
+    role: "Junior Web Developer",
+    company: "GHANA NATIONAL LANDS COMISSION",
+    description: `Contributed to the development and maintenance of server-side web applications using Laravel for managing land information for the Republic of Ghana, while assisting in API development, database management with MySQL/SQL, and ensuring software security and performance through testing and optimization; also participated in code reviews, provided end-user training, and stayed updated with emerging technologies to drive continuous improvement and seamless system integration.`,
     technologies: ["Python", "Svelte", "Three.js", "Postgres"],
   },
   {
-    year: "2020 - 2021",
-    role: "Software Engineer",
-    company: "Paypal",
-    description: `Contributed to the development of web applications using JavaScript, React.js, and Node.js. Managed databases and implemented data storage solutions using MongoDB. Worked closely with product managers to prioritize features and enhancements.`,
-    technologies: ["Ruby", "Rails", "PHP", "Sqlite"],
+    year: "July 2017 - September 2021",
+    role: "IT Intern",
+    company: "GHANA NATIONAL LANDS COMISSION              ",
+    description: `Assisted in maintaining IT systems and ensuring software security and performance through testing and optimization; provided end-user training and support to enhance understanding of IT tools and systems, participated in system reviews to uphold IT standards, and stayed updated with emerging technologies to support continuous improvement and operational efficiency.`,
+    technologies: ["", "", "", ""],
   },
 ];
 
@@ -70,7 +74,7 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "767 Fifth Avenue, New York, NY 10153 ",
-  phoneNo: "+12 4555 666 00 ",
-  email: "me@example.com",
+  address: "London,England ",
+  phoneNo: "+44 79 49882532 ",
+  email: "a.williams.amoako@gmail..com",
 };
