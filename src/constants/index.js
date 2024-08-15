@@ -44,19 +44,19 @@ export const EXPERIENCES = [
 
 export const PROJECTS = [
   {
-    title: "Online learning and Education",
+    title: "Online learning and Education(https://cyberxghana.com)",
     image: project1,
     description:
       "Provides a broad range of online courses across various subjects, including technology, business, personal development, and more. It enables users to learn at their own pace through video lectures, quizzes, and assignments.ion.",
-    technologies: ["HTML", "Bootstrap", "Laravel", "Js", "MySQL"],
+    technologies: ["HTML", "Bootstrap", "Laravel"],
     
   },
   {
-    title: "Task Management App",
+    title: "Ghana Land Information System",
     image: project2,
     description:
-      "An application for managing tasks and projects, with features such as task creation, assignment, and progress tracking.",
-    technologies: ["HTML", "CSS", "Angular", "Firebase"],
+      "An internal web application used by the Republic of Ghana's Lands Commission to manage and share Land data with the ministry of Lands and Natural Resources ",
+    technologies: [ "Tailwind", "Laravel"],
   },
   {
     title: "Portfolio Website",
